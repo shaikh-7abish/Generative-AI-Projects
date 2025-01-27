@@ -8,8 +8,9 @@ This projects involve using tools and techniques related to Generative AI, eithe
 
 If you'd like to explore any of these projects, simply click on the project's folder link above. You'll find detailed documentation, code, and instructions on how to reproduce the results.
 
-- <a href='https://github.com/shaikh-7abish/Generative-AI-Projects/tree/main/Tavily%20Search%20Engine%20API%20using%20Langchain'>Implementing Tavily Search API using LangChain</a>
-- <a href='https://github.com/shaikh-7abish/Ollama-Llama-Chatbot'>Ollama Llama Chatbot using LangChain</a>
+- <a href='https://github.com/shaikh-7abish/Generative-AI-Projects/tree/main/Tavily%20Search%20Engine%20API%20using%20Langchain'>Implementing Tavily Search API using LangChain.</a>
+- <a href='https://github.com/shaikh-7abish/Ollama-Llama-Chatbot'>Ollama Llama Chatbot using LangChain.</a>
+- <a href='https://github.com/shaikh-7abish/Retrieval-Augmented-Generation'>Retrieval-Augmented-Generation using Llama 3.2-1b and Chain / Retriever Method.</a>
 
 
 ## Installation
