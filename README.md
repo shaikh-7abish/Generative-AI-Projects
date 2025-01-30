@@ -11,6 +11,7 @@ If you'd like to explore any of these projects, simply click on the project's fo
 - <a href='https://github.com/shaikh-7abish/Generative-AI-Projects/tree/main/Tavily%20Search%20Engine%20API%20using%20Langchain'>Implementing Tavily Search API using LangChain.</a>
 - <a href='https://github.com/shaikh-7abish/Ollama-Llama-Chatbot'>Ollama Llama Chatbot using LangChain.</a>
 - <a href='https://github.com/shaikh-7abish/Retrieval-Augmented-Generation'>Retrieval-Augmented-Generation using Llama 3.2-1b and Chain / Retriever Method.</a>
+- <a href='https://github.com/shaikh-7abish/MultiSearch_AI_Agent'>Multi Search AI Agent using Langchain can search between Wikipedia, Arxiv, and a personal link.</a>
 
 
 ## Installation
