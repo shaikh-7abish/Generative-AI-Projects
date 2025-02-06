@@ -12,6 +12,7 @@ If you'd like to explore any of these projects, simply click on the project's fo
 - <a href='https://github.com/shaikh-7abish/Ollama-Llama-Chatbot'>Ollama Llama Chatbot using LangChain.</a>
 - <a href='https://github.com/shaikh-7abish/Retrieval-Augmented-Generation'>Retrieval-Augmented-Generation using Llama 3.2-1b and Chain / Retriever Method.</a>
 - <a href='https://github.com/shaikh-7abish/MultiSearch_AI_Agent'>Multi Search AI Agent using Langchain can search between Wikipedia, Arxiv, and Websites.</a>
+- <a href='https://github.com/shaikh-7abish/Document RAG Q-A_Chatbot'>PDF Document Q&A Chatbot with Deepseek R1.</a>
 
 
 ## Installation
